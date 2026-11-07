@@ -281,7 +281,7 @@ fieldset select, fieldset input[type=number], fieldset input[type=text], fieldse
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
 
-/* top-level entries: 🖼 圖片 / 🎬 影片 / 🤖 短片 Agent */
+/* top-level entries: 🖼 图片 / 🎬 视频 / 🤖 短片 Agent */
 .toptabs { display: flex; gap: 8px; margin-bottom: 10px; }
 .top { border: 3px solid var(--ink); border-radius: 999px; padding: 6px 16px; background: #fff; font-weight: 900; font-size: 15px; box-shadow: var(--pop); }
 .top.active { background: var(--ink); color: #fff; }
@@ -290,7 +290,7 @@ fieldset select, fieldset input[type=number], fieldset input[type=text], fieldse
 .media img.result { width: 100%; display: block; border-radius: 12px; }
 [hidden] { display: none !important; }
 
-/* 📁 專案 (CreativeBox) */
+/* 📁 项目 (CreativeBox) */
 .proj-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 12px; margin-top: 4px; }
 .proj-card { border: 3px solid var(--ink); border-radius: 16px; overflow: hidden; background: #fff; box-shadow: var(--pop); cursor: pointer; transition: transform .1s; }
 .proj-card:hover { transform: translateY(-3px); }

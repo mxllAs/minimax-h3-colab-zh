@@ -5,7 +5,7 @@
     },
     "class_type": "VAELoader",
     "_meta": {
-      "title": "載入 VAE",
+      "title": "加载 VAE",
       "cnr_id": "comfy-core",
       "ver": "0.30.1"
     }
@@ -16,7 +16,7 @@
     },
     "class_type": "VAELoader",
     "_meta": {
-      "title": "載入 VAE",
+      "title": "加载 VAE",
       "cnr_id": "comfy-core",
       "ver": "0.30.1"
     }
@@ -29,7 +29,7 @@
     },
     "class_type": "CLIPLoader",
     "_meta": {
-      "title": "載入 CLIP",
+      "title": "加载 CLIP",
       "cnr_id": "comfy-core",
       "ver": "0.30.1"
     }
@@ -40,7 +40,7 @@
     },
     "class_type": "LoadImage",
     "_meta": {
-      "title": "載入圖片",
+      "title": "加载图片",
       "cnr_id": "comfy-core",
       "ver": "0.30.1"
     }
@@ -68,7 +68,7 @@
     },
     "class_type": "UNETLoader",
     "_meta": {
-      "title": "載入擴散模型",
+      "title": "加载扩散模型",
       "cnr_id": "comfy-core",
       "ver": "0.30.1"
     }
@@ -83,7 +83,7 @@
     },
     "class_type": "ComfyMathExpression",
     "_meta": {
-      "title": "數學運算式",
+      "title": "数学表达式",
       "cnr_id": "comfy-core",
       "ver": "0.30.1"
     }
@@ -114,7 +114,7 @@
     },
     "class_type": "VAEDecode",
     "_meta": {
-      "title": "VAE 解碼",
+      "title": "VAE 解码",
       "cnr_id": "comfy-core",
       "ver": "0.30.0"
     }
@@ -132,7 +132,7 @@
     },
     "class_type": "VAEDecodeAudio",
     "_meta": {
-      "title": "VAE 解碼音訊",
+      "title": "VAE 解码音频",
       "cnr_id": "comfy-core",
       "ver": "0.40.0"
     }
@@ -143,7 +143,7 @@
     },
     "class_type": "KSamplerSelect",
     "_meta": {
-      "title": "K採樣器選擇",
+      "title": "K采样器选择",
       "cnr_id": "comfy-core",
       "ver": "0.40.0"
     }
@@ -211,7 +211,7 @@
     },
     "class_type": "MiniMaxH3ReferenceToVideo",
     "_meta": {
-      "title": "MiniMax H3 參考轉影片",
+      "title": "MiniMax H3 参考转视频",
       "cnr_id": "comfy-core",
       "ver": "0.40.0"
     }
@@ -225,7 +225,7 @@
     },
     "class_type": "ConditioningZeroOut",
     "_meta": {
-      "title": "條件設定（歸零）",
+      "title": "条件设置（归零）",
       "cnr_id": "comfy-core",
       "ver": "0.40.0"
     }
@@ -264,7 +264,7 @@
     },
     "class_type": "ModelAttentionBackend",
     "_meta": {
-      "title": "模型注意力後端",
+      "title": "模型注意力后端",
       "cnr_id": "comfy-core",
       "ver": "0.40.0"
     }
@@ -287,7 +287,7 @@
     },
     "class_type": "BlockSparseAttention",
     "_meta": {
-      "title": "模型區塊稀疏注意力",
+      "title": "模型区块稀疏注意力",
       "cnr_id": "comfy-core",
       "ver": "0.40.0"
     }
